@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/wallet.dir/src/main.cpp.o CMakeFiles/wallet.dir/src/wallet.cpp.o -o wallet  /usr/lib/x86_64-linux-gnu/libssl.so /usr/lib/x86_64-linux-gnu/libcrypto.so 
